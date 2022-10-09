@@ -5,3 +5,4 @@ ipython==8.4.0
 cython==0.29.32
 matplotlib==3.6.0
 pesq==0.0.4
+jupyter
